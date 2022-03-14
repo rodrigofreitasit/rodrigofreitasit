@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo a Marketing Cloud Consultant 👋
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Salescloud
 <div align="center">
   <a href="https://github.com/rodrigofreitasit ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigofreitasit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
